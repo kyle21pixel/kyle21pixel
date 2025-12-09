@@ -36,37 +36,20 @@
 
 <br />
 
-<!-- ABOUT & STATS GRID -->
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👨‍💻 About Me</h3>
-      <br />
-      <div align="center">
-        <!-- Profile Image: This will ONLY show after you Commit Changes and upload profile.jpg -->
-        <img src="profile.jpg" width="200" height="200" alt="kyle21pixel" style="border-radius: 50%; border: 4px solid #33CCFF; object-fit: cover;"/>
-      </div>
-      <br />
-      <ul>
-        <li>🔭 I’m currently working on <b>254Garage</b></li>
-        <li>🌱 I’m currently learning <b>Rust & WebAssembly</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open Source</b></li>
-        <li>💬 Ask me about <b>React, Node.js, UI Design</b></li>
-        <li>⚡ Fun fact: <b>I dream in JSON</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 GitHub Stats</h3>
-      <br />
-      <div align="center">
-        <!-- Stats: These will appear once your username kyle21pixel is active -->
-        <img src="https://github-readme-stats.vercel.app/api?username=kyle21pixel&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle21pixel&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- ABOUT ME (CENTERED) -->
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+  <br />
+  <img src="profile.jpg" width="200" height="200" alt="kyle21pixel" style="border-radius: 50%; border: 4px solid #33CCFF; object-fit: cover;"/>
+  <br /><br />
+  <p align="center">
+    🔭 I’m currently working on <b>254Garage</b><br/>
+    🌱 I’m currently learning <b>Rust & WebAssembly</b><br/>
+    👯 I’m looking to collaborate on <b>Open Source</b><br/>
+    💬 Ask me about <b>React, Node.js, UI Design</b><br/>
+    ⚡ Fun fact: <b>I dream in JSON</b>
+  </p>
+</div>
 
 <br />
 
@@ -74,7 +57,7 @@
 <div align="center">
   <h3>🛠️ Technologies & Tools</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,python,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,linux,vscode,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,linux,vscode,figma&perline=8&theme=dark" />
 </div>
 
 <br />
@@ -129,6 +112,16 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+<!-- GITHUB STATS (MOVED TO BOTTOM) -->
+<div align="center">
+  <h3 align="center">📊 GitHub Stats</h3>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=kyle21pixel&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle21pixel&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" width="48%" />
+</div>
 
 <br />
 
