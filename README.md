@@ -57,7 +57,7 @@
 <div align="center">
   <h3>🛠️ Technologies & Tools</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,linux,vscode,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,linux,parrot,vscode,figma&perline=8&theme=dark" />
 </div>
 
 <br />
