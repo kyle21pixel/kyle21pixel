@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=250&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cyber%20Security%20%7C%20Pentester&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=250&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cyber%20Security%20%7C%20Pentester&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
   
   <br />
   
@@ -41,14 +41,10 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <br />
-  <img src="https://github.com/kyle21pixel.png" width="200" height="200" alt="kyle21pixel" style="border-radius: 50%; border: 4px solid #33CCFF; object-fit: cover;"/>
+  <img src="https://images.weserv.nl/?url=github.com/kyle21pixel.png&w=200&h=200&mask=circle" width="200" height="200" alt="kyle21pixel" />
   <br /><br />
-  <p align="center">
-    🔭 I’m currently working on <b>254Garage</b> & <b>Cyber Defense Tools</b><br/>
-    🌱 I’m currently learning <b>Rust & WebAssembly</b> for secure systems<br/>
-    👯 I’m looking to collaborate on <b>Open Source Security Tools</b><br/>
-    💬 Ask me about <b>React, Node.js, Penetration Testing</b><br/>
-    ⚡ Fun fact: <b>I dream in JSON and Hex code</b>
+  <p align="center" width="600">
+    I am a passionate <b>Full Stack Developer</b> and <b>Cyber Security Enthusiast</b> who thrives at the intersection of creation and security. My journey began with a curiosity for how systems work, which quickly evolved into a dual expertise: building scalable, user-centric web applications and rigorously testing them for vulnerabilities. I believe that true digital innovation doesn't just look good—it stands resilient against threats. When I'm not crafting pixel-perfect UIs or designing robust backend architectures, I'm diving deep into network packets, analyzing security protocols, and developing open-source tools to empower the developer community. For me, code is more than just instructions; it's a medium to build a safer, more connected world.
   </p>
 </div>
 
@@ -58,7 +54,16 @@
 <div align="center">
   <h3>🛠️ Technologies & Tools</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,linux,parrot,vscode,figma,python,kali,wireshark,bash&perline=10&theme=dark" />
+  
+  <!-- Development Stack -->
+  <p align="center" style="font-size: 1.1em; margin-bottom: 20px;"><b>💻 Development Stack</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,vscode,figma&perline=8&theme=dark" />
+  
+  <br /><br />
+  
+  <!-- Cybersecurity Stack -->
+  <p align="center" style="font-size: 1.1em; margin-bottom: 20px;"><b>🔐 Cybersecurity & Ops</b></p>
+  <img src="https://skillicons.dev/icons?i=linux,parrot,kali,python,bash,wireshark&perline=6&theme=dark" />
 </div>
 
 <br />
