@@ -1,13 +1,13 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=250&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20coding%20space&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=250&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cyber%20Security%20%7C%20Pentester&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%"/>
   
   <br />
   
   <!-- TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Crafting+Beautiful+UI%2FUX;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Cyber+Security+%2F+Pentester;Full+Stack+Developer;Building+Scalable+Web+Apps;Crafting+Beautiful+UI%2FUX;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br />
@@ -168,10 +168,21 @@
   <br><br>
   
   <!-- Manual "Top Languages" representation using Shields.io to GUARANTEE React is #1 visually -->
-  <h3>🔥 Core Stack Dominance</h3>
-  <img src="https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Python-15%25-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <!-- Animated Header for Stack -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=255,100,0,255,200,0&height=60&section=header&text=Core%20Stack%20Dominance&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=50&descAlign=50&animation=fadeIn" width="400" style="border-radius: 30px;"/>
+  <br><br>
+
+  <!-- First Row: Frontend & Design -->
+  <img src="https://img.shields.io/badge/React-60%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
+  
+  <br>
+  
+  <!-- Second Row: Logic & Backend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
 
 </div>
 
