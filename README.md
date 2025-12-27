@@ -57,13 +57,13 @@
   
   <!-- Development Stack -->
   <p align="center" style="font-size: 1.1em; margin-bottom: 20px;"><b>💻 Development Stack</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,vscode,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,postgres,mongodb,docker,git,vscode,python,figma&perline=8&theme=dark" />
   
   <br /><br />
   
   <!-- Cybersecurity Stack -->
   <p align="center" style="font-size: 1.1em; margin-bottom: 20px;"><b>🔐 Cybersecurity & Ops</b></p>
-  <img src="https://skillicons.dev/icons?i=linux,parrot,kali,python,bash,wireshark&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,python,bash,wireshark&perline=6&theme=dark" />
 </div>
 
 <br />
