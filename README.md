@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <!-- ========================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,35,0,255,255&text=Cyber%20Security%20Analyst&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Offensive%20Security%20%7C%20Red%20Team&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,35,0,255,255&text=Cyber%20Security%20Analyst&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Deffensive%20Security%20%7C%20Blue%20Team&descAlignY=55" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00E6FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Analyst;Penetration+Tester+(Web+%26+Network);Threat+Hunting+%7C+Exploit+Research;Breaking+Systems+to+Secure+Them" />
 
