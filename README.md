@@ -2,16 +2,16 @@
 <!-- HEADER -->
 <!-- ========================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,35,0,255,255&text=Cyber%20Security%20Analyst&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Deffensive%20Security%20%7C%20Blue%20Team&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,35,0,255,255&text=Cyber%20Security%20Analyst&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Penetration%20Tester%20%7C%20IT%20%26%20System%20Administration%20%7C%20Blue%20Team&descAlignY=55" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00E6FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Analyst;Penetration+Tester+(Web+%26+Network);Threat+Hunting+%7C+Exploit+Research;Breaking+Systems+to+Secure+Them" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00E6FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Analyst;IT+Support+%26+System+Administration;Penetration+Tester+(Web+%26+Network);Active+Directory+%7C+Windows+Server;Breaking+Systems+to+Secure+Them" />
 
   <br><br>
 
   <p>
     <a href="https://github.com/kyle21pixel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
     <a href="https://linkedin.com/in/kyle-cybersec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-    <a href="mailto:kyle@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+    <a href="mailto:kylecode21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=kyle21pixel&color=00e6ff&style=flat-square" />
@@ -35,6 +35,10 @@
     actionable remediation aligned with business risk.
     My development background enables deep source-level analysis, exploit automation,
     and secure system design.
+    <br><br>
+    I also run a <a href="https://github.com/kyle21pixel/active-directory-homelab"><b>Windows Server / Active Directory homelab</b></a>
+    where I practice enterprise IT administration: domain services, Group Policy,
+    DHCP/DNS, and PowerShell automation.
   </p>
 </div>
 
@@ -81,6 +85,14 @@
   <p><b>Security Tools</b></p>
   <p>
     Nmap • Burp Suite • Metasploit • SQLmap • FFUF • Gobuster • Hydra • Nikto • Aircrack-ng
+  </p>
+
+  <br>
+
+  <p><b>IT & System Administration</b></p>
+  <img src="https://skillicons.dev/icons?i=windows,powershell,linux,docker&theme=dark"/>
+  <p>
+    Active Directory • Group Policy • DNS/DHCP • Windows Server 2022 • Sysmon • RSAT
   </p>
 
   <br>
@@ -205,6 +217,59 @@ Documented IR workflows for common attack scenarios.
 ---
 
 <!-- ========================================================= -->
+<!-- HOMELAB -->
+<!-- ========================================================= -->
+<h2 align="center">🏠 Homelab — Enterprise IT in Miniature</h2>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/kyle21pixel/active-directory-homelab">
+      <img src="https://img.shields.io/badge/Repo-active--directory--homelab-0078D4?style=for-the-badge&logo=github"/>
+    </a>
+  </p>
+  <p width="750">
+    A fully documented <b>Active Directory environment</b> I built and administer:
+    Windows Server 2022 domain controller, domain-joined Windows 11 clients,
+    and endpoint monitoring — rebuilt regularly from my own step-by-step guides.
+  </p>
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center">
+<b>🗂️ Domain Services</b><br>
+AD DS forest & domain deployment, AD-integrated DNS, DHCP scopes & reservations,
+department-based OU design.<br><br>
+<b>Stack:</b> Windows Server 2022
+</td>
+
+<td width="33%" align="center">
+<b>📋 Group Policy & Automation</b><br>
+Security baselines, drive mapping, account lockout policy — plus bulk user
+provisioning and AD audit reports in PowerShell.<br><br>
+<b>Stack:</b> GPO, PowerShell
+</td>
+
+<td width="33%" align="center">
+<b>🛡️ Detection & Monitoring</b><br>
+Sysmon deployed domain-wide via GPO; event-log hunting for password sprays,
+lockouts, and privileged group changes.<br><br>
+<b>Stack:</b> Sysmon, Event Logs
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <p>
+    📚 <a href="https://github.com/kyle21pixel/active-directory-homelab#-documentation"><b>Build guides</b></a> ·
+    ⚙️ <a href="https://github.com/kyle21pixel/active-directory-homelab/tree/main/scripts"><b>PowerShell scripts</b></a> ·
+    🗺️ <a href="https://github.com/kyle21pixel/active-directory-homelab#%EF%B8%8F-lab-topology"><b>Network topology</b></a>
+  </p>
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!-- STATS -->
 <!-- ========================================================= -->
 <div align="center">
@@ -216,5 +281,6 @@ Documented IR workflows for common attack scenarios.
 
 ---
 
-<!-- ========================================================= -->
-<!--
+<div align="center">
+  <sub>⚡ Always learning, always building — labs are rebuilt from scratch regularly to keep skills sharp.</sub>
+</div>
