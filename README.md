@@ -104,6 +104,31 @@
 ---
 
 <!-- ========================================================= -->
+<!-- FLAGSHIP -->
+<!-- ========================================================= -->
+<h2 align="center">⭐ Flagship Project: ITOpsKit</h2>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/kyle21pixel/ITOpsKit">
+      <img src="https://img.shields.io/badge/Repo-ITOpsKit-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+    </a>
+    <a href="https://github.com/kyle21pixel/ITOpsKit/actions/workflows/ci.yml">
+      <img src="https://github.com/kyle21pixel/ITOpsKit/actions/workflows/ci.yml/badge.svg"/>
+    </a>
+  </p>
+  <p width="750">
+    A production-grade <b>PowerShell module for IT operations</b>: automated employee
+    onboarding & offboarding, Active Directory health audits, and account-lockout tracing.
+    <br>
+    <b>44 Pester unit tests</b> · <b>PSScriptAnalyzer lint</b> · <b>GitHub Actions CI</b> ·
+    safe-by-design with <code>-WhatIf</code> everywhere and reversible offboarding.
+  </p>
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!-- PROJECTS -->
 <!-- ========================================================= -->
 <h2 align="center">🛡️ Security Projects Portfolio</h2>
