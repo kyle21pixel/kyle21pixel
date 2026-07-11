@@ -285,6 +285,20 @@ lockouts, and privileged group changes.<br><br>
 </table>
 
 <div align="center">
+  <h3>🔗 A connected lab: build → automate → defend</h3>
+  <p>
+    <a href="https://github.com/kyle21pixel/active-directory-homelab"><img src="https://img.shields.io/badge/1.%20AD%20Homelab-Build-0078D4?style=flat-square&logo=windows&logoColor=white"/></a>
+    <a href="https://github.com/kyle21pixel/ITOpsKit"><img src="https://img.shields.io/badge/2.%20ITOpsKit-Automate-5391FE?style=flat-square&logo=powershell&logoColor=white"/></a>
+    <a href="https://github.com/kyle21pixel/soc-detection-lab"><img src="https://img.shields.io/badge/3.%20SOC%20Lab-Defend-005792?style=flat-square&logo=wazuh&logoColor=white"/></a>
+  </p>
+  <p width="750">
+    My <a href="https://github.com/kyle21pixel/soc-detection-lab"><b>SOC Detection Lab</b></a> runs a
+    Wazuh SIEM on this domain with <b>custom detection rules as code</b> — password spray, Kerberoasting,
+    and privilege-escalation alerts, each mapped to <b>MITRE ATT&CK</b> and validated by simulated attacks.
+  </p>
+</div>
+
+<div align="center">
   <p>
     📚 <a href="https://github.com/kyle21pixel/active-directory-homelab#-documentation"><b>Build guides</b></a> ·
     ⚙️ <a href="https://github.com/kyle21pixel/active-directory-homelab/tree/main/scripts"><b>PowerShell scripts</b></a> ·
