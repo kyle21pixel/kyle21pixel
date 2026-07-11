@@ -129,6 +129,30 @@
 ---
 
 <!-- ========================================================= -->
+<!-- FLAGSHIP 2 -->
+<!-- ========================================================= -->
+<h2 align="center">⭐ Full-Stack Project: HelpDeskHQ</h2>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/kyle21pixel/helpdesk-hq">
+      <img src="https://img.shields.io/badge/Repo-helpdesk--hq-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </a>
+    <a href="https://github.com/kyle21pixel/helpdesk-hq/actions/workflows/ci.yml">
+      <img src="https://github.com/kyle21pixel/helpdesk-hq/actions/workflows/ci.yml/badge.svg"/>
+    </a>
+  </p>
+  <p width="750">
+    A full-stack <b>IT support ticketing system</b> (a lightweight ServiceNow) built end-to-end in TypeScript:
+    an <b>Express + SQLite REST API</b> with role-based access and <b>SLA tracking</b>, and a <b>React SPA</b>
+    for raising, triaging, and resolving tickets. <b>42 tests</b>, <b>GitHub Actions CI</b>, and a status
+    state-machine that rejects illegal transitions. Combines IT domain knowledge with real software engineering.
+  </p>
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!-- PROJECTS -->
 <!-- ========================================================= -->
 <h2 align="center">🛡️ Security Projects Portfolio</h2>
